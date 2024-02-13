@@ -1,0 +1,4 @@
+this is a c code
+int a,b,c
+c=a+b
+print c
